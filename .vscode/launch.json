@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Safura/OneDrive/Desktop/cpp practice",
-      "program": "c:/Users/Safura/OneDrive/Desktop/cpp practice/build/Debug/outDebug",
+      "cwd": "c:/Users/Safura/OneDrive/Desktop/cpp practice/cpp folder.2",
+      "program": "c:/Users/Safura/OneDrive/Desktop/cpp practice/cpp folder.2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
