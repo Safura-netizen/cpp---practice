@@ -34,30 +34,28 @@ using namespace std;
 //     sum(num1, num2);
 //     return 0;
 // }
-int maxx(int num1, int num2) {
-    if (num1 >num2) {
-        return num1;
-}   else{
-    return num2;
-}
-}
-int main(){
-    int num1, num2;
-    cin>>num1>>num2;
-    int maxium = maxx(num1, num2);
-    cout<<maxium<<endl;
-    return 0;
-}
-
-
-
-
-
-
-
-
-
-
+// int maxx(int num1, int num2) {
+//     if (num1 >num2) {
+//         return num1;
+// }   else{
+//     return num2;
+// }
+// // }
+// int main(){
+//     int num1, num2;
+//     cin>>num1>>num2;
+//     int maxium = maxx(num1, num2);
+//     cout<<maxium<<endl;
+//     return 0;
+// }
+// void dosomething(int num) {
+//     cout<<num<<endl;
+// }
+// int main() {
+//     int num = 10;
+//     dosomething(num);
+//     return 0;
+// }
 //RETURN FUNCTION
 // int sum(int num1, int num2) {
 //     int num3 = num1 + num2;
@@ -88,3 +86,4 @@ int main(){
 //     dosomething(num);
 //     return 0;
 // }
+
